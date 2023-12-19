@@ -3,7 +3,7 @@ package algorithms;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class SelectionSort {
+public class BubbleSort {
 	static boolean konsistent = true;
 
 	public static void run(int[] a) {

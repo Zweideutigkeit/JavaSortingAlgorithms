@@ -31,7 +31,7 @@ public class Main {
 
 		
 		long x = System.currentTimeMillis();
-		SelectionSort.run(arr);
+		BubbleSort.run(arr);
 		long y = System.currentTimeMillis();
 		System.out.println((long)y - x);
 		
