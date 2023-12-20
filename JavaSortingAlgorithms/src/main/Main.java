@@ -13,7 +13,8 @@ public class Main {
 	public static void main(String[] args) {
 		Random rand = new Random();
 		int n = 0;
-		n = 50; //How big should the List be?
+		//n = 50; //How big should the List be?
+		n = Input.readInt("Hallo");
 		
 		int[] arr = new int[n];
 		
