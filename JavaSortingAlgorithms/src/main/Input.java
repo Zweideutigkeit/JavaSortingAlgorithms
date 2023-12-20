@@ -14,7 +14,6 @@ public class Input {
 	public static int readInt(String text) {
 		System.out.println(text);
 		init();
-		
 		return s.nextInt();
 	}
 

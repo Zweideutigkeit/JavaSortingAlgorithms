@@ -14,7 +14,7 @@ public class Main {
 		Random rand = new Random();
 		int n = 0;
 		//n = 50; //How big should the List be?
-		n = Input.readInt("Hallo");
+		n = Input.readInt("How long should the list be?: ");
 		
 		int[] arr = new int[n];
 		
